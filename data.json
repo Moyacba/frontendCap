@@ -1,0 +1,7 @@
+{"web":{"client_id":"161807912668-2f6o8mmap6dhtvgchosmtk44fngvb08i.apps.googleusercontent.com",
+    "project_id":"modotecno","auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret":"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",
+    "redirect_uris":["https://localhost:8080"],
+    "javascript_origins":["https://localhost:8080"]}}
